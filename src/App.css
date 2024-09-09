@@ -1,0 +1,24 @@
+header{
+  background-color: rgb(236, 224, 117);
+  box-shadow: 0 0 10px black;
+  text-align: center;
+  padding: 10px;
+}
+main{
+  width: 90%;
+  margin: auto;
+}
+nav a{
+  display: inline-block;
+  background-color:  rgb(217, 240, 10);
+  border-radius: 4px;
+  margin: 6px;
+  padding: 8px;
+  transition: 0.2s;
+  text-decoration: none;
+  color: black;
+}
+nav a:hover{
+  cursor: pointer;
+  background-color: rgb(229, 255, 0);
+}
