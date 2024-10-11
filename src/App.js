@@ -13,7 +13,7 @@ import { Bio } from './components/Bio';
 import { Pictures } from './components/Pictures';
 import { Gallery } from './components/Gallery';
 import Login from './components/Login';
-import Clock from './components/Clock'; // Імпорт компонента
+import Clock from './components/Clock'; 
 
 const { Header, Sider, Content } = Layout;
 
